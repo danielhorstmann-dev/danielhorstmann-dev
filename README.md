@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, ich bin Daniel Horstmann!
 
-<!--
-**danielhorstmann-dev/danielhorstmann-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin angehender Fachinformatiker für Anwendungsentwicklung mit einem starken Interesse an Java und technischer Prozessoptimierung.  
+Ich baue aktuell mein Wissen systematisch auf – Schritt für Schritt, mit echten Projekten.
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- Java
+- Git & GitHub
+- Problemverständnis & strukturiertes Denken
+- Motivation: Groß!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Aktuelle Ziele
+- Abschluss meiner Ausbildung (2027)
+- Praxisnahe Projekte mit Java umsetzen
+- Einstieg in Nebenprojekte & IT-Freelancing
+
+### 📬 Kontakt
+- 📧 daniel.horstmann20@gmail.com
